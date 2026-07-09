@@ -87,14 +87,6 @@
 
 用浏览器打开 index.html 即可使用。所有数据保存在浏览器本地，无需服务器。
 
-### 部署到 GitHub Pages
-
-1. 将仓库推送到 GitHub
-2. 在仓库设置中启用 Pages 功能，选择 main 分支
-3. 访问 https://你的用户名.github.io/记忆地层-心理博物馆/
-
----
-
 ## 本地开发建议
 
 - 推荐使用 VS Code + Live Server 插件进行本地开发
